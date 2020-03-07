@@ -1,2 +1,2 @@
-# expressions
-My Collections of expressions
+# telugu
+my telugu lines
